@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Product_Based App</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="rs_7000">Rs.7000</string>
+    <string name="camera" />
+    <string name="makeup_kit">MakeUp Kit</string>
+    <string name="rs_2000">Rs.2000</string>
+    <string name="gel">Gel</string>
+</resources>
